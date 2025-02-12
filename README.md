@@ -18,7 +18,7 @@
 - 1 : Open the GitHub Account and click on New Repository
 - 2 : Add New Repository and write your repository name
 - 3 : Click on clone to make clone the other Repository
-- 4 : Open code editor(Visual Studio Code or Notpad ++) and open your clone file
+- 4 : Open code editor(Visual Studio Code or Notepad ++) and open your clone file
 - 5 : Click on run to show your project on web browser.
 
 
